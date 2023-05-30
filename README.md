@@ -6,9 +6,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=DDD&center=true&vCenter=true&multiline=true&height=85&lines=𝙃𝙚𝙡𝙡𝙤,+𝙬𝙚𝙡𝙘𝙤𝙢𝙚;𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝗲+𝗠𝘆+𝗡𝗮𝗺𝗲+XLOD VpN;𝗦𝘂𝗯𝘀𝗰𝗿𝗶𝗯𝗲+𝘁𝗼+𝗬𝗼𝘂𝗧𝘂𝗯𝗲+XlordOffcial">
 
-  ## (MY YOUTUBE)
+  ## MY LOGO
 
-[![LeetHub](https://github.com/xlord27/XLORD-VPN/blob/main/20230423_200237.png))](https://youtube.com/c/alnurridwan "LeetHub saves lives!")
+[![LeetHub](https://github.com/xlord27/XLORD-VPN/blob/main/20230423_200237.png))](https://youtube.com/c/ "LeetHub saves lives!")
 ## (ANALYSIS)
 <p align="center">
 
