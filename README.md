@@ -8,7 +8,7 @@
 
   ## (MY YOUTUBE)
 
-[![LeetHub](https://github.com/MyRidwan/MyRidwan/blob/ipuk/20221010_001912.png)](https://youtube.com/c/alnurridwan "LeetHub saves lives!")
+[![LeetHub](https://github.com/xlord27/XLORD-VPN/blob/main/20230423_200237.png))](https://youtube.com/c/alnurridwan "LeetHub saves lives!")
 ## (ANALYSIS)
 <p align="center">
 
