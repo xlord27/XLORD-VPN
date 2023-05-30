@@ -26,7 +26,7 @@
 
 
 ```
-🟥 YouTube: BLOM BIKIN
+🟥 YouTube: XLORD OFFICIAL
 🟦 Grup Telegram: https://xlordvpn
 ```
 
