@@ -1,10 +1,10 @@
 # XLORD-VPN<!-- Hi skid <3 -->
 
-<h2 align="center"><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> XLORD VPN<a href="https://discord.gg/onlp"></a></h2>
+<h2 align="center"><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> XLORD VPN STORE<a href="https://discord.gg/onlp"></a></h2>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&multiline=true&height=85&lines=𝙃𝙚𝙡𝙡𝙤,+𝙬𝙚𝙡𝙘𝙤𝙢𝙚;𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝗲+𝗠𝘆+𝗡𝗮𝗺𝗲+Arh-Project;𝗦𝘂𝗯𝘀𝗰𝗿𝗶𝗯𝗲+𝘁𝗼+𝗬𝗼𝘂𝗧𝘂𝗯𝗲+Arh-Project">
+<img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&multiline=true&height=85&lines=𝙃𝙚𝙡𝙡𝙤,+𝙬𝙚𝙡𝙘𝙤𝙢𝙚;𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝗲+𝗠𝘆+𝗡𝗮𝗺𝗲+XLORD-Project;𝗦𝘂𝗯𝘀𝗰𝗿𝗶𝗯𝗲+𝘁𝗼+𝗬𝗼𝘂𝗧𝘂𝗯𝗲+Arh-Project">
 
   ## (MY YOUTUBE)
 
@@ -12,7 +12,7 @@
 ## (ANALYSIS)
 <p align="center">
 
-<a href="https://github.com/MyRidwan">
+<a href="https://github.com/xlord27">
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MyRidwan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
@@ -26,11 +26,10 @@
 
 
 ```
-🟥 YouTube: Arh-Project 
-🟦 Grup Telegram: https://t.me/R1f4n_1122
+🟥 YouTube: BLOM BIKIN
+🟦 Grup Telegram: https://xlordvpn
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=java,linux,js,html,css,python,php,bash,azure,docker,gcp)](https://skillicons.dev)
 
 
 
