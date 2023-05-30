@@ -1,6 +1,6 @@
 # XLORD-VPN<!-- Hi skid <3 -->
 
-<h2 align="center"><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Arh-Project<a href="https://discord.gg/onlp"></a></h2>
+<h2 align="center"><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> XLORD VPN<a href="https://discord.gg/onlp"></a></h2>
 
 <p align="center">
 
